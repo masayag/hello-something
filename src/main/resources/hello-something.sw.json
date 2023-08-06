@@ -18,7 +18,7 @@
       "name": "Inject Mantra",
       "type": "inject",
       "data": {
-        "mantra": "Serverless Workflow is awesome!"
+        "mantra": "Serverless Workflow is awesome++!"
       },
       "end": true
     }
